@@ -1,0 +1,24 @@
+/
+selector: teg, class, id;
+selector{
+    property: value;
+}
+
+p{
+    color: red;
+}
+.text{
+    color: blueviolet;
+}
+.fon{
+    font-size: 25px;
+    font-weight: bold;
+}
+#bg{
+    background-color:pink;
+    text-align: center;
+}
+#ba{
+    background-color: pink;
+    text-align: center;
+}
